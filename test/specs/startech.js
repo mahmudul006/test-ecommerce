@@ -29,6 +29,10 @@ describe('Login Functionality', () => {
     await browser.pause(5000);
     await browser.pause(3000);
 
+    await browser.pause(3000);
+    await browser.pause(3000);
+    await browser.pause(3000);
+
     // const usernameField = $('#username');
     // const passwordField = $('#password');
     // const loginButton = $('#login-button');
