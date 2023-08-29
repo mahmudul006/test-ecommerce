@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"Laptop\"}\n  (Session info: chrome=116.0.5845.96)",
+  "stacktrace": "#0 0x5622fd6c5e23 <unknown>\n#1 0x5622fd3ee7a7 <unknown>\n#2 0x5622fd42d1d3 <unknown>\n#3 0x5622fd42d2c1 <unknown>\n#4 0x5622fd468a04 <unknown>\n#5 0x5622fd44e03d <unknown>\n#6 0x5622fd466369 <unknown>\n#7 0x5622fd44dde3 <unknown>\n#8 0x5622fd421a7b <unknown>\n#9 0x5622fd42281e <unknown>\n#10 0x5622fd687638 <unknown>\n#11 0x5622fd68b507 <unknown>\n#12 0x5622fd695c4c <unknown>\n#13 0x5622fd68c136 <unknown>\n#14 0x5622fd65a9cf <unknown>\n#15 0x5622fd6afb98 <unknown>\n#16 0x5622fd6afd68 <unknown>\n#17 0x5622fd6becb3 <unknown>\n#18 0x7f81c1094b43 <unknown>\n"
+}

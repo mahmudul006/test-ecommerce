@@ -1,0 +1,21 @@
+{
+  "name": "my-new-project",
+  "type": "module",
+  "devDependencies": {
+    "@wdio/allure-reporter": "^8.15.7",
+    "@wdio/cli": "^8.15.9",
+    "@wdio/junit-reporter": "^8.15.9",
+    "@wdio/local-runner": "^8.15.9",
+    "@wdio/mocha-framework": "^8.15.9",
+    "@wdio/selenium-standalone-service": "^8.1.2",
+    "@wdio/spec-reporter": "^8.15.7"
+  },
+  "scripts": {
+    "wdio": "wdio run ./wdio.conf.js",
+    "startech": "wdio run ./wdio.conf.js --suite startech"
+  },
+  "dependencies": {
+    "chromedriver": "^116.0.0",
+    "webdriver": "^8.15.9"
+  }
+}

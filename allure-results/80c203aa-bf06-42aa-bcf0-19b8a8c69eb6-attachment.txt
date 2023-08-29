@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "a.nav-link[href=\"https://www.startech.com.bd/laptop-notebook\"]"
+}

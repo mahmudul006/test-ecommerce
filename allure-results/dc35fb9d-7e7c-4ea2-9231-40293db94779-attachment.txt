@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"a.nav-link[href=\"https://www.startech.com.bd/laptop-notebook\"]\"}\n  (Session info: chrome=116.0.5845.96)",
+  "stacktrace": "#0 0x558a9ec0be23 <unknown>\n#1 0x558a9e9347a7 <unknown>\n#2 0x558a9e9731d3 <unknown>\n#3 0x558a9e9732c1 <unknown>\n#4 0x558a9e9aea04 <unknown>\n#5 0x558a9e99403d <unknown>\n#6 0x558a9e9ac369 <unknown>\n#7 0x558a9e993de3 <unknown>\n#8 0x558a9e967a7b <unknown>\n#9 0x558a9e96881e <unknown>\n#10 0x558a9ebcd638 <unknown>\n#11 0x558a9ebd1507 <unknown>\n#12 0x558a9ebdbc4c <unknown>\n#13 0x558a9ebd2136 <unknown>\n#14 0x558a9eba09cf <unknown>\n#15 0x558a9ebf5b98 <unknown>\n#16 0x558a9ebf5d68 <unknown>\n#17 0x558a9ec04cb3 <unknown>\n#18 0x7fc5a4694b43 <unknown>\n"
+}
