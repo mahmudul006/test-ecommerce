@@ -11,6 +11,8 @@ describe('Login Functionality', () => {
     const cards = await $$('.main-content .p-item');
     await cards[1].click();
     await browser.pause(5000);
+    await browser.pause(5000);
+    await browser.pause(5000);
     // const usernameField = $('#username');
     // const passwordField = $('#password');
     // const loginButton = $('#login-button');
