@@ -11,6 +11,28 @@ describe('Login Functionality', () => {
     const cards = await $$('.main-content .p-item');
     await cards[1].click();
     await browser.pause(5000);
+    await browser.pause(5000);
+    await browser.pause(5000);
+
+    await browser.pause(5000);
+    await browser.pause(5000);
+    await browser.pause(5000);
+    await browser.pause(5000);
+    await browser.pause(5000);
+
+    await browser.pause(5000);
+
+    await browser.pause(5000);
+    await browser.pause(5000);
+
+    await browser.pause(5000);
+    await browser.pause(5000);
+    await browser.pause(3000);
+
+    await browser.pause(3000);
+    await browser.pause(3000);
+    await browser.pause(3000);
+
     // const usernameField = $('#username');
     // const passwordField = $('#password');
     // const loginButton = $('#login-button');
@@ -35,5 +57,15 @@ describe('Login Functionality', () => {
     console.log("Hello MH")
     console.log("Hello MH")
     console.log("Hello MH")
+    console.log('hlw skb');
+    console.log('hlw skb');
+
+    console.log('hlw skb');
+
+    console.log('hlw skb');
+
+    console.log('hlw skb');
+
+    console.log('hlw skb');
   });
 });
