@@ -26,5 +26,14 @@ describe('Login Functionality', () => {
 
     // const welcomeMessage = $('.welcome-message');
     // expect(welcomeMessage.getText()).toEqual('Welcome, User!');
+
+    console.log("Hello MH")
+    console.log("Hello MH")
+    console.log("Hello MH")
+    console.log("Hello MH")
+    console.log("Hello MH")
+    console.log("Hello MH")
+    console.log("Hello MH")
+    console.log("Hello MH")
   });
 });
